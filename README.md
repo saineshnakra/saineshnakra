@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sainesh Nakra</h1>
 <h3 align="center">An SDE currently pursuing my Master of Science in Computer Science from Northeastern University, Boston</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saineshnakra&label=Profile%20views&color=0e75b6&style=flat" alt="saineshnakra" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saineshnakra" alt="saineshnakra" /></a> </p>
-
 - 🔭 I’m currently working on **Smart Contract Auditing Using LLM**
 
 - 👯 I’m looking to collaborate on **Backend,frontend,fullstack, mobile dev and data projects**
