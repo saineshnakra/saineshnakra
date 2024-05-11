@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Smart Contract Auditing Using LLM**
 
-- 👯 I’m looking to collaborate on **Backend Projects, Frontend Projects, Fullstack Projects, Mobile Dev Projects and Data/ML projects**
+- 👯 I’m looking to collaborate on **Backend Projects, Frontend Projects and Mobile Dev Projects**
 
 - 👨‍💻 My website [https://sainesh.com/](https://sainesh.com/)
 
