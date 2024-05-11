@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Sainesh Nakra</h1>
 <h3 align="center">An SDE currently pursuing my Master of Science in Computer Science from Northeastern University, Boston</h3>
 
 - 🔭 I’m currently working on **Smart Contract Auditing Using LLM**
