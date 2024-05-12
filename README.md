@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://saineshnakra.medium.com/](https://saineshnakra.medium.com/)
 
-- 💬 Ask me about ** Java, C++, C, Python, React, MongoDB, SQL, Node, Express, Solidity, AWS, Kotlin**
+- 💬 Ask me about **Java, C++, C, Python, React, MongoDB, SQL, Node, Express, Solidity, AWS, Kotlin**
 
 - 📫 How to reach me **nakra.s@northeastern.edu**
 
