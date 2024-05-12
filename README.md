@@ -15,8 +15,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/saineshnakra/](https://www.linkedin.com/in/saineshnakra/)
 
-- ⚡ Fun fact **I probably have a hello-world for all languages ever written**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saineshnakra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saineshnakra" height="30" width="40" /></a>
