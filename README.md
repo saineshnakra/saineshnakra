@@ -1,15 +1,11 @@
 <h1 align= "center">Sainesh Nakra</h1>
 <h3 align="center">Software Developer currently pursuing my Master of Science in Computer Science from Northeastern University, Boston</h3>
 
-- 🔭 I’m currently working on **Smart Contract Auditing Using LLM**
-
-- 👯 I’m looking to collaborate on **Backend Projects, Frontend Projects and Mobile Dev Projects**
+- 👯 I’m looking to collaborate on **Backend, Frontend and Block Chain Projects**
 
 - 👨‍💻 My website [https://sainesh.com/](https://sainesh.com/)
 
 - 📝 I regularly write articles on [https://saineshnakra.medium.com/](https://saineshnakra.medium.com/)
-
-- 💬 Ask me about **Java, C++, C, Python, React, MongoDB, SQL, Node, Express, Solidity, AWS, Kotlin**
 
 - 📫 How to reach me **nakra.s@northeastern.edu**
 
