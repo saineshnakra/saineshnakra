@@ -11,7 +11,7 @@
 
 - 🌱 I’m on a learning path exploring `Cloud Technologies`, `Web Development` and `Blockchain`.
   
-- 💬 Feel free to ask me about  `AWS`, `React`, `Technical Architecture`, `Blockchain` 
+- 💬 Feel free to ask me about  `AWS`, `C++`, `Technical Architecture`, `Blockchain` 
   and `Web Development`. I love discussing technology and sharing knowledge.
 
 
