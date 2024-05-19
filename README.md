@@ -1,7 +1,7 @@
 <h1 align= "center">Sainesh Nakra</h1>
 <h3 align="center">Software Developer currently pursuing my Master of Science in Computer Science from Northeastern University, Boston</h3>
 
-- 👯 I’m looking to collaborate on **Backend, Frontend and Block Chain Projects**
+- 👯 I’m looking to collaborate on **Backend, Frontend and Blockchain Projects**
 
 - 👨‍💻 My website [https://sainesh.com/](https://sainesh.com/)
 
