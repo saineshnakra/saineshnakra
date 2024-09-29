@@ -9,11 +9,6 @@
 
 - 📫 How to reach me **nakra.s@northeastern.edu**
 
-- 🌱 I’m on a learning path exploring `Cloud Technologies`, `Web Development` and `Blockchain`.
-  
-- 💬 Feel free to ask me about  `AWS`, `C++`, `System Design`, `Blockchain` 
-  and `Web Development`. I love discussing technology and sharing knowledge.
-
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/saineshnakra/](https://www.linkedin.com/in/saineshnakra/)
 
