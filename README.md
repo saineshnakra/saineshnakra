@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/saineshnakra/](https://www.linkedin.com/in/saineshnakra/)
 
-- 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
