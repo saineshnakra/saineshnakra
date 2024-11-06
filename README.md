@@ -13,15 +13,6 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/saineshnakra/](https://www.linkedin.com/in/saineshnakra/)
 
 - 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=saineshnakra&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=saineshnakra&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
