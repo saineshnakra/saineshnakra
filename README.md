@@ -13,15 +13,11 @@ Software Engineer at Google in San Jose, California. I build production mobile, 
 
 Before Google, I worked at MathWorks, Bosch, Honda, NEC, and early-stage health-technology teams. I earned an MS in Computer Science from Northeastern University and a BTech in Electronics and Communication Engineering from VIT.
 
-## Selected work
-
-### Wellfinity 360
-
-A cross-platform workplace-wellness product built with React Native, HealthKit, Health Connect, Supabase, and PostgreSQL. It includes step synchronization, challenges, leaderboards, events, rewards, multi-tenant access controls, and native iOS and Android distribution.
+## some things I did
 
 ### ScriptCut
 
-An AI video editor that turns transcript edits into video edits. Built with Next.js, FastAPI, Python, FFmpeg, Docker, and speech-to-text models; selected as an MIT Arts Startup Incubator semifinalist.
+An AI video editor that turns transcript edits into video edits. Built with Next.js, FastAPI, Python, FFmpeg, Docker, and speech-to-text models; selected as an MIT Arts Startup Incubator semifinalist and got incubator money (unfortunately we don't work on it anymore :/ ).
 
 ### DefixGuard
 
