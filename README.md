@@ -13,7 +13,7 @@ Software Engineer at Google in San Jose, California. I build production mobile, 
 
 Before Google, I worked at MathWorks, Bosch, Honda, NEC, and early-stage health-technology teams. I earned an MS in Computer Science from Northeastern University and a BTech in Electronics and Communication Engineering from VIT.
 
-## some things I did
+## Some things I did
 
 ### ScriptCut
 
