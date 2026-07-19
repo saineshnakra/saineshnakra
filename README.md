@@ -38,7 +38,7 @@ I care about reliable systems, precise execution, thoughtful product design, and
 ## Elsewhere
 
 - Work and case studies: [sainesh.com](https://sainesh.com/)
-- Professional background: [LinkedIn](https://www.linkedin.com/in/saineshnakra/)
-- Algorithms practice: [LeetCode](https://leetcode.com/u/saineshnakra/)
+- Experience: [LinkedIn](https://www.linkedin.com/in/saineshnakra/)
+- DSA: [LeetCode](https://leetcode.com/u/saineshnakra/)
 - Writing: [Medium](https://saineshnakra.medium.com/)
 
