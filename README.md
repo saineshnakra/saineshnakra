@@ -1,7 +1,6 @@
 # Hi, I'm Sainesh Nakra
 
-Software Engineer at Google @ Mountain View. I build production mobile, frontend, backend, infrastructure, and applied-AI systems, and I enjoy taking ideas from a rough prototype to something people can actually use. (pretty much anything and everything ._.)
-
+Software Engineer at Google @ Mountain View. I build production mobile, frontend, backend, infrastructure, and applied-AI systems, and I enjoy taking ideas from a rough prototype to something people can actually use.
 [Portfolio](https://sainesh.com/) · [LinkedIn](https://www.linkedin.com/in/saineshnakra/) · [LeetCode](https://leetcode.com/u/saineshnakra/) · [Medium](https://saineshnakra.medium.com/)
 
 Before Google, I worked at MathWorks, Bosch, Honda, NEC, and early-stage health-technology teams. I earned an MS in Computer Science from Northeastern University and a BTech in Electronics and Communication Engineering from VIT.
