@@ -7,7 +7,7 @@ Before Google, I worked at MathWorks, Bosch, Honda, NEC, and early-stage health-
 
 ## Some things I did
 
-### [ADA — Automated Data Analyst](https://github.com/saineshnakra/automated-data-analyst)
+### [ADA: Automated Data Analyst](https://github.com/saineshnakra/automated-data-analyst)
 
 I'm building an open-source Python package that computes answers from CSV and Excel files and checks numerical claims against the underlying data. The goal is to give people and AI coding agents such as Claude Code and Codex a dependable tool for doing the math, with the calculation, rows used and assumptions visible.
 
