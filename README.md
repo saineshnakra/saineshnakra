@@ -7,6 +7,16 @@ Before Google, I worked at MathWorks, Bosch, Honda, NEC, and early-stage health-
 
 ## Some things I did
 
+### [ADA — Automated Data Analyst](https://github.com/saineshnakra/automated-data-analyst)
+
+I'm building an open-source Python package that computes answers from CSV and Excel files and checks numerical claims against the underlying data. The goal is to give people and AI coding agents such as Claude Code and Codex a dependable tool for doing the math, with the calculation, rows used and assumptions visible.
+
+**Where it stands:** ADA has CLI, Python API and JSON workflows for asking questions, checking claims and inspecting folders of related tables. It also generates reproducible research tables and figures. Supported claims return `verified` or `unverified` with a reason; verification is scoped to the supplied data, calculation and stated assumptions.
+
+**What I'm solving now:** broader coverage of real-world data and analytical questions, safer handling of ambiguous columns, units and joins, and reliable workflows for coding agents. Unsupported requests should explain what is missing or ask for clarification. Generalization is checked against public datasets with independently calculated expected results and held-out cases.
+
+[Code](https://github.com/saineshnakra/automated-data-analyst) · [PyPI](https://pypi.org/project/automated-data-analyst/) · [Progress and limitations](https://github.com/saineshnakra/automated-data-analyst#progress) · [Contribute](https://github.com/saineshnakra/automated-data-analyst/blob/main/CONTRIBUTING.md)
+
 ### ScriptCut
 
 An AI video editor that turns transcript edits into video edits. Built with Next.js, FastAPI, Python, FFmpeg, Docker, and speech-to-text models; selected as an MIT Arts Startup Incubator semifinalist and got incubator money (unfortunately we don't work on it anymore :/ ).
